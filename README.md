@@ -18,6 +18,4 @@ At Real.ai, we are committed to continuous improvement and innovation. We work c
 
 We take immense pride in our ability to provide our clients with reliable, effective, and efficient tools that help them create a positive online experience for their users. At Real.ai, we are dedicated to making the online world a better place, one social media platform at a time.
 
-## Demo
-
-[Demo Video](https://www.youtube.com/watch?v=ZDqBMByo6r4)
+Demo: [YouTube](https://www.youtube.com/watch?v=ZDqBMByo6r4)
